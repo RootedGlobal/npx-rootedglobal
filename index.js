@@ -2,23 +2,23 @@
 
 const { white, bold, blueBright } = require("colorette");
 
-const work = white(
-  `Full-stack software engineer & Tech Lead @ ${blueBright("Rooted Global")}`
-);
+const work = white(`Full-stack web & mobile apps development`);
 const tagline = `${blueBright("  All things Web & JS")} ${white(
   "(MEAN, MERN & LAMP tech-stack)"
 )}`;
-const website = blueBright("https://narainsagar.com");
-const twitter = blueBright("https://twitter.com/narainsagar");
-const linkedIn = blueBright("https://linkedin.com/in/narainsagar");
-const github = blueBright("https://github.com/narainsagar");
-const upwork = blueBright("https://upwork.com/freelancers/~01050a14629af3bda8");
-const medium = blueBright("https://medium.com/@narainsagar");
-const facebook = blueBright("https://fb.com/NarainSagarPage");
-const npx = white("npx narainsagar");
+const website = blueBright("https://rootedglobal.com");
+const twitter = blueBright("https://twitter.com/rootedglobal");
+const linkedIn = blueBright("https://linkedin.com/company/rootedglobal");
+const github = blueBright("https://github.com/rootedglobal");
+const upwork = blueBright("https://upwork.com/agencies/~01eb6e46dcf0ca91a2");
+const medium = blueBright("https://medium.com/@rootedglobal");
+const facebook = blueBright("https://fb.com/RootedGlobalOfficial");
+const npx = white("npx rootedglobal");
 
 const newline = "\n";
-const heading = `${white("  Narain Menghwar /")} ${blueBright("narainsagar")}`;
+const heading = `${white("  Narain Menghwar |")} ${blueBright(
+  "Founder & Technical Lead"
+)} ${white("|")} ${blueBright(" Rooted Global")}`;
 const websiteing = `${white(bold("  Website:"))}  ${website}`;
 const working = `${white(bold("     Work:"))}  ${work}`;
 const linkedining = `${white(bold(" LinkedIn:"))} ${linkedIn}`;
