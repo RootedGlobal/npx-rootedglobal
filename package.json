@@ -1,5 +1,5 @@
 {
-  "name": "ahsanayaz",
+  "name": "narainsagar",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -7,24 +7,29 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ahsanayaz": "./index.js"
+    "narainsagar": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahsanayaz/npm-ahsanayaz.git"
+    "url": "git+https://github.com/narainsagar/npx-narainsagar.git"
   },
   "keywords": [
-    "ahsanayaz",
-    "muhammad ahsan",
+    "narainsagar",
+    "narain",
+    "sagar",
+    "menghwar",
+    "narainmenghwar",
+    "narain sagar",
+    "narain menghwar",
     "business card",
     "e-card"
   ],
-  "author": "Ahsan Ayaz <ahsan.ubitian@gmail.com>",
+  "author": "Narain Sagar <narainmenghwar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahsanayaz/npm-ahsanayaz/issues"
+    "url": "https://github.com/narainsagar/npx-narainsagar/issues"
   },
-  "homepage": "https://github.com/ahsanayaz/npm-ahsanayaz#readme",
+  "homepage": "https://github.com/narainsagar/npx-narainsagar#readme",
   "dependencies": {
     "colorette": "^1.0.7"
   }
